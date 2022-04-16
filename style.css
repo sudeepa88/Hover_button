@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image:url(img/fantasticSolarSyatem.gif) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    height: 100vh;
+}
+button{
+    border-color: rgb(238, 255, 0);
+    
+    background: transparent;
+    color: rgb(238, 255, 0);
+    padding: 12px 42px;
+    font-size: 2rem;
+    border-radius: 12px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 3rem;
+    
+    
+}
+button:hover{
+    /* transition: 300ms; */
+    cursor: pointer;
+    box-shadow: 0px 10px 18px rgb(108, 216, 122);
+   
+     
+    transform: scale(1.05);
+    
+}
