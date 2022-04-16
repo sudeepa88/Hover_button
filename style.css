@@ -1,7 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-image:url(https://media.istockphoto.com/photos/astronaut-on-foreign-planet-in-front-of-spacetime-portal-light-picture-id1305960650?s=612x612) ;
+    background-image:url("paper.gif") ;
+    background-color: azure;
     background-repeat: no-repeat;
     background-size: cover;
 }
